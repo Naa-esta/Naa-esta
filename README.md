@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naa-esta
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Git and Java
-- 💞️ I’m looking to collaborate on Gmix
+- 💞️ I’m looking to collaborate on Jmix
 - 📫 How to reach me: Email(naa.esta.s@gmail.com)
 
 <!---
