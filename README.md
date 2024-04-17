@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Esther Aryeetey, a Data Analyst.
+- 👋 Hi, I am Esther Aryeetey, a Data Analyst.
 - 🌱 I am a Fellow at Blossom Academy in the AI and Data Science Fellowship.
 - 💞️ I’m interested in programming and Artificial Intelligence(AI).
 - 💻 Programming Languages:Python, C++, and Java.
